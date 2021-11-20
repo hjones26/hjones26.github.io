@@ -70,7 +70,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
+ 	background: white(0, 150, 178, .75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border: 4px dashed white;
 }
@@ -78,7 +78,7 @@ html, body {
    
 #logo {
     margin-bottom: 16px;
-	border: 3px dashed red;
+	border: 3px dashed white;
 	text-align: center;
 }
 
